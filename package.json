@@ -1,0 +1,25 @@
+{
+  "name": "x-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/anubhavbaghel/x-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anubhavbaghel/x-clone/issues"
+  },
+  "homepage": "https://github.com/anubhavbaghel/x-clone#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.18"
+  }
+}
