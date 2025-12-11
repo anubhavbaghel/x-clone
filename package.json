@@ -8,7 +8,7 @@
     "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "repository": {
-    "type": "git", 
+    "type": "git",
     "url": "git+https://github.com/anubhavbaghel/x-clone.git"
   },
   "keywords": [],
